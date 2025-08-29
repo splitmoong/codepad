@@ -1,4 +1,4 @@
-package org.example.backend.runner;
+package org.example.backend.records;
 
 import java.util.List;
 

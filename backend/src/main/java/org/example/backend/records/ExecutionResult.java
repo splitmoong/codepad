@@ -1,4 +1,4 @@
-package org.example.backend.runner;
+package org.example.backend.records;
 
 /**
  * A data-holding record for the result of a code execution.

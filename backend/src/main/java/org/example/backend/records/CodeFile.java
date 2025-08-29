@@ -1,4 +1,4 @@
-package org.example.backend;
+package org.example.backend.records;
 
 import java.nio.file.Path;
 
